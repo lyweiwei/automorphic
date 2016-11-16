@@ -1,0 +1,17 @@
+{
+  "name": "automorphic",
+  "version": "1.0.0",
+  "description": "Automorphic package builder.",
+  "main": "dist/index.js",
+  "author": "Wei Wei (BINGADS) <wewei@microsoft.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-preset-latest": "^6.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "lerna": "2.0.0-beta.30"
+  }
+}
